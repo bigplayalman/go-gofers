@@ -1,0 +1,18 @@
+{
+  "autoPrefixerOptions": {
+    "browsers": ["last 2 versions", "> 5%", "Firefox ESR"]
+  },
+  "globs" : {
+    "all": "**",
+    "icons": "lib/ionic/fonts/*",
+    "assets": "assets/**",
+    "sass": "css/styles.scss",
+    "index": "index.html"
+  },
+  "paths": {
+    "src": 			"./src/",
+    "dist": 		"./dist/",
+    "build":		".",
+    "resources":	"./node_modules/"
+  }
+}

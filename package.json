@@ -1,0 +1,31 @@
+{
+  "name": "go-gofers",
+  "version": "1.0.0",
+  "description": "website for go-gofers",
+  "main": "index.html",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigplayalman/go-gofers.git"
+  },
+  "keywords": [
+    "go-gofers"
+  ],
+  "author": "almas barzhaxynov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigplayalman/go-gofers/issues"
+  },
+  "homepage": "https://github.com/bigplayalman/go-gofers#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.3.2",
+    "merge-stream": "^1.0.0",
+    "run-sequence": "^1.2.2"
+  }
+}
